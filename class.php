@@ -19,6 +19,8 @@ class Utils
     
     public function getName()
     {
+        $a = 1;
+        
         return 'Utils class';  
     }
 }
