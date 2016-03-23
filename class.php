@@ -7,6 +7,11 @@ class Utils
         
     }
     
+    public function setName($name)
+    {
+        
+    }
+    
     public function getName()
     {
         return 'Utils';  
