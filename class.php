@@ -2,6 +2,8 @@
 
 class Utils 
 {
+    private $foo;
+    
     public function __construct() 
     {
         
