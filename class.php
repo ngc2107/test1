@@ -16,6 +16,6 @@ class Utils
     
     public function getName()
     {
-        return 'Utils';  
+        return 'Utils class';  
     }
 }
