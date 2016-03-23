@@ -6,7 +6,7 @@ class Utils
     
     public function __construct() 
     {
-        
+        $this->foo = '';
     }
     
     public function setName($name)
