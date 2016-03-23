@@ -2,8 +2,9 @@
 
 class Utils 
 {
-    private $foo;
+    private $foo;   
     private $bar;
+    protected $name;
     
     public function __construct() 
     {
@@ -13,7 +14,7 @@ class Utils
     
     public function setName($name)
     {
-        
+        $this->name = $name;
     }
     
     public function getName()
